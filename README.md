@@ -8,8 +8,6 @@
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This project is a **clone of the popular Flappy Bird game** developed using **Unity** and **C#**. It replicates the addictive gameplay where players control a bird that must navigate through a series of pipes without colliding with them. The game includes scoring, collision detection, and a restart option.
